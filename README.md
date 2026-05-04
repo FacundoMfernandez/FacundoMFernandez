@@ -75,7 +75,7 @@ Disponible inmediatamente para roles SOC L1, Blue Team o IR/Forense.
 - ✅ Bootcamp Analista SOC Nivel 1 v.5 (Comunidad DOJO) — 2024
 
 **En curso (2026):**
-- 📚 AZ-900 Microsoft Azure Fundamentals — Q2
+- 📚 SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals — Q2
 - 📚 eSOC eLearnSecurity SOC Analyst — Q2-Q3
 - 📚 SC-200 Microsoft Security Operations Analyst — Q3
 - 📚 eCIR eLearnSecurity Certified Incident Responder — Q4

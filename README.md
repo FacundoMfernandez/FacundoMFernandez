@@ -78,7 +78,7 @@ Disponible inmediatamente para roles SOC L1, Blue Team o IR/Forense.
 
 🔐 **[active-directory-attack-chain](https://github.com/FacundoMfernandez/active-directory-attack-chain)** — Cadena de ataque completa sobre AD: BloodHound, Pass-the-Hash, Kerberoasting, Golden Ticket. Proyecto final del Bootcamp 360°.
 
-💣 **[pentesting-obioba](https://github.com/FacundoMfernandez/pentesting-obioba)** — Pentesting caja negra: Shellshock (CVE-2014-6271) + Log4Shell (CVE-2021-44228). Escalada de www-data a root.
+💣 **[pentesting-obioba](https://github.com/FacundoMfernandez/-pentesting-obioba)** — Pentesting caja negra: Shellshock (CVE-2014-6271) + Log4Shell (CVE-2021-44228). Escalada de www-data a root.
 
 🌐 **[web-app-attacks-avengers](https://github.com/FacundoMfernandez/web-app-attacks-avengers)** — Ataque a app web: SQL Injection, file upload exploit, reverse shell PHP. Cadena completa hasta RCE.
 

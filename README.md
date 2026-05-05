@@ -4,7 +4,7 @@
 
 📍 Valencia, España · 📩 seguridadinformaticamf@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/facundo-martin-fernandez-oton-/) · 🌐 Portfolio (próximamente)
+🔗 [LinkedIn](https://www.linkedin.com/in/facundo-martin-fernandez-oton-/) · 🌐 Portfolio 
 
 ---
 

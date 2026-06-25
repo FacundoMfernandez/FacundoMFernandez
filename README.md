@@ -109,7 +109,7 @@ Disponible inmediatamente para roles SOC L1, Blue Team o IR/Forense.
 ## 🎓 Certificaciones
 
 **Obtenidas:**
-- ✅ SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals — 
+- ✅ SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals — 2026
 - ✅ IT Specialist – Cybersecurity (Certiport / Pearson VUE) — 2025
 - ✅ IT Specialist – Cybersecurity (Certiport / Pearson VUE) — 2025
 - ✅ Cisco CCST Cybersecurity — 2024
